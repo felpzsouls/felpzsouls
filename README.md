@@ -17,8 +17,8 @@ Hello, I'm Felpzsouls, this is my GitHub profile, I'm a learning developer.
 <details> 
  <summary>🖥️ Some projects</summary>
  <br />
-  <a href="https://github.com/felpzsouls/Discord-bot">Discord-Bot</a><br>
-  <a href="https://github.com/felpzsouls/Discord-OAuth">Discord-OAuth</a><br>
+  <a href="https://github.com/felpzsouls/webapps">Web Apps</a><br>
+  <a href="https://github.com/felpzsouls/NodeJs-projects">Node Apps</a><br>
   <a href="https://github.com/felpzsouls/Felpz.db">JSON Database<br>
   <a href="https://github.com/felpzsouls/website">My Website</a>
 </details>
