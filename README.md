@@ -33,3 +33,12 @@ Hello, I'm Felpzsouls, this is my GitHub profile, I'm a learning developer.
   <a href="https://discord.com/users/1191815547491467414"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
  <a href="https://www.npmjs.com/~felpzsouls_"><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
 </details>
+
+> My goals
+
+<details>
+ <summary>✅ Goals</summary>
+ ( )My portfolio.<br>
+ ( )My Discord Bot.<br>
+ ( )Learn Python.
+</details>
