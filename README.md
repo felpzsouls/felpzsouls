@@ -7,13 +7,13 @@ Hello, I'm Felpzsouls, this is my GitHub profile, I'm a learning developer.
 
 📖 Languages
 
- <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript"></a>
- <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css"></a>
- <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html"></a>
- <a href="https://pugjs.org/"><img src="https://skillicons.dev/icons?i=pug"></a>
- <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs"></a>
- <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript"></a>
- <a href="[https://www.typescriptlang.org/](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)"><img src="https://skillicons.dev/icons?i=bash"></a>
+ <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript"></a>
+ <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css"></a>
+ <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html"></a>
+ <a href="https://pugjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pug"></a>
+ <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs"></a>
+ <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript"></a>
+ <a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html" target="_blank"><img src="https://skillicons.dev/icons?i=bash"></a>
 
 
 > My projects:
