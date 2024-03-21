@@ -1,6 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=023e8a&height=120&section=header"/>
-
-# My Profile
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=023e8a&height=120&section=header"/>
+<h1>My Profile</h1>
 
 Hello, I'm Felpzsouls, this is my GitHub profile, I'm a learning developer.
 
