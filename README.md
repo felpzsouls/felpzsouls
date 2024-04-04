@@ -38,13 +38,9 @@ Hello, I'm Felpzsouls, this is my GitHub profile, I'm a learning developer.
 </details>
 
 > My goals
-
-<details>
- <summary>✅ Goals</summary>
- ( )My portfolio.<br>
- ( )My Discord Bot.<br>
- ( )Learn Python.
-</details>
+ * [ ] My portfolio.
+ * [ ] My Discord Bot.
+ * [ ] Learn Python.
 
 <hr>
 
